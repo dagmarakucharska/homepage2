@@ -1,0 +1,23 @@
+body {
+    background: #C5BAAF;
+}
+
+#top {
+    background-color: #559CAD;
+}
+
+nav a {
+    background-color: olive;
+    color: #ffffff;
+}
+
+a {
+    color: black;
+}
+.first-header {
+    color: #424B54;
+}
+
+.second-header {
+    color: #B38D97;
+}
