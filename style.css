@@ -1,29 +1,29 @@
 body {
-    background: #C5BAAF;
+  background: #c5baaf;
 }
 
 #top {
-    background-color: #559CAD;
+  background-color: #559cad;
 }
 
 nav a {
-    background-color: olive;
-    color: #ffffff;
+  background-color: olive;
+  color: #ffffff;
 }
 
 a {
-    color: black;
+  color: black;
 }
 .first-header {
-    color: #424B54;
+  color: #424b54;
 }
 
 .second-header {
-    color: #B38D97;
+  color: #b38d97;
 }
 .box {
-    background: #afaaaa;
-    display: inline-block;
-    width: 200px;
-    height: 200px;
+  background: #afaaaa;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
 }
