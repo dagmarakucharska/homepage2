@@ -1,5 +1,29 @@
 body {
-  background: #c5baaf;
+  background: #b7d67c;
+}
+
+.main-header {
+  background-color: #559cad;
+  color: #d40639;
+  height: 200px;
+  width: 800px;
+}
+
+.main-header__domain {
+  background-color: chartreuse;
+  width: 800px;
+  height: 100px;
+  color:rgb(0, 102, 128)
+}
+
+.navigation {
+  background-color: rgb(0, 102, 128);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.main-header__menu {
+
 }
 
 #top {
@@ -7,23 +31,18 @@ body {
 }
 
 nav a {
-  background-color: olive;
-  color: #ffffff;
+
 }
 
-a {
-  color: black;
-}
-.first-header {
-  color: #424b54;
-}
 
-.second-header {
-  color: #b38d97;
-}
-.box {
+.about-me {
   background: #afaaaa;
-  display: inline-block;
-  width: 200px;
-  height: 200px;
+  display: inline;
+  width: 400px;
+  height: 70px;
 }
+
+
+
+
+
